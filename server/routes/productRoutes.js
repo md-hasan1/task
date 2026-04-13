@@ -14,6 +14,7 @@ import {
 
 const router = express.Router();
 
+
 //Route to get all products
 router.get('/', getProducts);
 
